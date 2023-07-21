@@ -1,0 +1,8 @@
+Some javaScript Essentials words meanings;
+
+Ojbects > instance == version, example, evidence, protimurti, sign,
+
+
+constructor > builder, maker, kind  of built in function in js; 4
+
+inheritance > hereditary, ancestral, patrimonial, lineal, inheritable, porompora
