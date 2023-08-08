@@ -5,5 +5,5 @@ Some javaScript Essential words meaning;
 3. inheritance > hereditary, ancestral, patrimonial, lineal, inheritable, porompora
 4. Literals == Fixed values are called Literals.
 5. Variables == Variable values are called Variables(changeable).
-6. Strings == Strings are text, written within double or single quotes.\
+6. Strings == Strings are text, written within double or single quotes.
 7. Exponentiation == The exponentiation operator (**) raises the first operand to the power of the second operand: (10**2 =100, 5*3 =125)
