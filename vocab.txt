@@ -19,3 +19,6 @@ Abortive = unsuccessful, vain, futile, sterile, debacle;
 Aberration = bicchuti, abnormal, deviation, divergence;
 
 let up = kome jawa, theme jawa;
+
+span = to exist or continue for a particular length of time; Choranu/ Prosarito kora in bangla.
+   A span is also the distance between two points, esp. between the structures that hold up a bridge,
