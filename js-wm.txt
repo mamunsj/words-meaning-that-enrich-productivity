@@ -7,3 +7,5 @@ Some javaScript Essential words meaning;
 5. Variables == Variable values are called Variables(changeable).
 6. Strings == Strings are text, written within double or single quotes.
 7. Exponentiation == The exponentiation operator (**) raises the first operand to the power of the second operand: (10**2 =100, 5*3 =125)
+
+8. saga == epic, tale, folk tale, chain of events, traditional story;
